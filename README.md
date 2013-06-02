@@ -16,6 +16,8 @@ Instructions
 1. Load [index.html](index.html)
 1. Select the starred.json file from the file you unzipped
 
+Click [here](http://htmlpreview.github.io/?https://github.com/earlNameless/google-reader-starred/blob/master/index.html) to run latest version.
+
 License
 =======
 Apache 2.0, see [index.html](index.html).
